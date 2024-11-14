@@ -8,3 +8,5 @@ const mainPrompt = [
 }
 
 ]
+
+export default mainPrompt;
